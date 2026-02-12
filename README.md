@@ -1,1 +1,1 @@
-# Python-Basic-FundamentalS-For-Data-Analytics
+# PYTHON-BASICS-FUNDAMENTALS-FOR-DATA-ANALYTICS
